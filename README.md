@@ -1,5 +1,3 @@
----
-
 **"Defining Low-Income, Low-Access Food Areas"**, Congressional Research Service, 06-01-2021, page 1:
 > - low-income (LI): poverty rate of 20% or greater, or median family income at or below 80% of the statewide or metropolitan area median family income; and 
 > - low-access (LA): a low-income tract with at least 500 people or 33% of the tract’s population living more than 1 mile (urban areas) or more than 10 miles (rural areas) from the nearest supermarket or grocery store. (USDALA data are also available assuming different measures of distance, ranging 0.5 miles to 20 miles).
