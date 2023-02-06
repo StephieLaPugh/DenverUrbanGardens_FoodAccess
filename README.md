@@ -28,6 +28,5 @@
 ----
 **ProPublica Nonprofit Explorer: Denver Urban Gardens, IRS Form 990s**:
 - site = https://projects.propublica.org/nonprofits/organizations/742374848
-- Note: ProPublica also has an API that allowed me to access this Form 990 information directly from Python as well. HOWEVER, because some of the more interesting information on "Operating Expenses" are included in item #24 of the IRS Form 990, which has "write-in" names of the expense categories, and those "write-in" names are not entered in the same order every year, and the "write-in" names change over time, I also referenced the PDF files to extract that information.
 
 ---
