@@ -26,7 +26,3 @@
 - linked Google Map = https://www.google.com/maps/d/viewer?mid=1DQq0JnovDqoXbygKTYweQsUfG4A&ll=39.74082951828451%2C-105.00433671452163&z=12
     - From the Google Map, click the 3-dot menu and "Download KML"
 ----
-**ProPublica Nonprofit Explorer: Denver Urban Gardens, IRS Form 990s**:
-- site = https://projects.propublica.org/nonprofits/organizations/742374848
-
----
